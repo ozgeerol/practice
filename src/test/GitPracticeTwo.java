@@ -7,6 +7,7 @@ public class GitPracticeTwo {
 		System.out.println("This is for Push practice");
 		
 		System.out.println("ozge");
+		System.out.println("this is for trial");
 	}
 
 }

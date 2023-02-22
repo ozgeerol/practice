@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ozgee
- *
- */
-module GitPractice {
-}
