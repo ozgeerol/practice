@@ -10,6 +10,10 @@ public class UnitTest {
 		}
 	public static int testOne(int a, int b) {
 		return a-b;
+	}
+	
+	public static int testTwo(int a, int b) {
+		return a-b;
 	
 
 	}
